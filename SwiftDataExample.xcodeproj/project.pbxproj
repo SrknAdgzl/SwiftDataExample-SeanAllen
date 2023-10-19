@@ -11,6 +11,7 @@
 		DA735D3D2AE168D200CD7F8F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA735D3C2AE168D200CD7F8F /* ContentView.swift */; };
 		DA735D3F2AE168D400CD7F8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA735D3E2AE168D400CD7F8F /* Assets.xcassets */; };
 		DA735D422AE168D400CD7F8F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA735D412AE168D400CD7F8F /* Preview Assets.xcassets */; };
+		DA735D492AE168E900CD7F8F /* Expense.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA735D482AE168E900CD7F8F /* Expense.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DA735D3C2AE168D200CD7F8F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA735D3E2AE168D400CD7F8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA735D412AE168D400CD7F8F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA735D482AE168E900CD7F8F /* Expense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DA735D3A2AE168D200CD7F8F /* SwiftDataExampleApp.swift */,
 				DA735D3C2AE168D200CD7F8F /* ContentView.swift */,
+				DA735D482AE168E900CD7F8F /* Expense.swift */,
 				DA735D3E2AE168D400CD7F8F /* Assets.xcassets */,
 				DA735D402AE168D400CD7F8F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA735D492AE168E900CD7F8F /* Expense.swift in Sources */,
 				DA735D3D2AE168D200CD7F8F /* ContentView.swift in Sources */,
 				DA735D3B2AE168D200CD7F8F /* SwiftDataExampleApp.swift in Sources */,
 			);
